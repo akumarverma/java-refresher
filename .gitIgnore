@@ -1,3 +1,7 @@
 /src/com/akv/classes/*
 /src/com/akv/collections/*
 /src/com/akv/multithreading/*
+.gitIgnore
+java-course.iml
+.idea
+/out/*
