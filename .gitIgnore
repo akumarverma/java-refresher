@@ -2,6 +2,6 @@
 /src/com/akv/collections/*
 /src/com/akv/multithreading/*
 .gitIgnore
-java-course.iml
-.idea
+*.imi
+/.idea/*
 /out/*
